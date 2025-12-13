@@ -94,6 +94,3 @@ This repository serves as a structured collection of my work throughout the GDG 
 
 If you are reviewing this repository and need clarification about any task, feel free to check the task-specific README files for detailed explanations.
 
----
-
-If you want, I can now generate the **Task 1 README** too — just say “Make my Task 1 README”.
